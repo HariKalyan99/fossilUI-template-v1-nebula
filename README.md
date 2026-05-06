@@ -79,8 +79,3 @@ jank on re-scroll.
 Mobile-first. Key breakpoints: `md` (768px) and `lg` (1024px). The hero, nav,
 process, case-study grid and pricing all have explicit mobile layouts — test with
 DevTools at 375px and 768px to confirm.
-
-## Branding
-
-- Template branding and attribution by Tronzlabs
-- Website: [tronzlabs.com](https://tronzlabs.com)
