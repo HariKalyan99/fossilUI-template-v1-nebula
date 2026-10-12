@@ -131,7 +131,7 @@ export default function Footer() {
             <div className="flex items-center gap-2">
               <span>Built by</span>
               <a
-                href="https://www.fossilui.space"
+                href="https://www.fossilui.buzz"
                 target="_blank"
                 rel="noreferrer"
                 className="font-medium"
